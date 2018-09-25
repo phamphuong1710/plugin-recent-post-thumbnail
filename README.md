@@ -1,0 +1,1 @@
+# plugin-recent-post-thumbnail
